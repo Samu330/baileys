@@ -1,5 +1,5 @@
 {
-  "name": "@nstar/baileys",
+  "name": "@Samu330/baileys",
   "version": "6.7.5",
   "description": "WhatsApp API",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/Bail",
+  "homepage": "https://github.com/Samu330/baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/Bail.git"
+    "url": "git+ssh://git@github.com/Samu330/baileys"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
